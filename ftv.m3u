@@ -19,9 +19,13 @@ https://js1.amtb.cn/liveedge/_definst_/yueyu/chunklist_w1323391757.m3u8
 https://js1.amtb.cn/liveedge/_definst_/wdmaster/chunklist_w2080647022.m3u8
 #EXTINF:-1 group-title="未分类",华藏卫星台
 http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
-#EXTINF:-1 group-title="http://210.209.3.1/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_1200K_ts&cpid=admin&size=1280X720&toflv=1&start=0",生命台fdz
+#EXTINF:-1 group-title="未分类",生命电视台a
+http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=1&start=0
+#EXTINF:-1 group-title="未分类",生命电视台b
+http://210.209.3.1/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_1200K_ts&cpid=admin&size=1280X720&toflv=1&start=0
+#EXTINF:-1 group-title="未分类",生命台fdz
 mms://fo.fodizi.com/fo
-#EXTINF:-1 group-title="http://210.209.3.1/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_1200K_ts&cpid=admin&size=1280X720&toflv=1&start=0",慧律法师1台fdz
+#EXTINF:-1 group-title="未分类",慧律法师1台fdz
 mms://down.fodizi.com/tv1
-#EXTINF:-1 group-title="http://210.209.3.1/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_1200K_ts&cpid=admin&size=1280X720&toflv=1&start=0",慧律法师2台fdz
+#EXTINF:-1 group-title="未分类",慧律法师2台fdz
 mms://down.fodizi.com/tv
